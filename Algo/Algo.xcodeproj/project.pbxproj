@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		10C027E92C43AC370043C368 /* BOJ_[1316].cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C027E82C43AC370043C368 /* BOJ_[1316].cpp */; };
+		109A5BFC2C46C4C100A469AD /* BOJ_[1157].cpp in Sources */ = {isa = PBXBuildFile; fileRef = 109A5BFB2C46C4C100A469AD /* BOJ_[1157].cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		101B8AA92C2AC351002D7874 /* Algo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algo; sourceTree = BUILT_PRODUCTS_DIR; };
 		101B8AAC2C2AC351002D7874 /* BOJ_[4949].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[4949].cpp"; sourceTree = "<group>"; };
+		103D9E312C464865008C7B5C /* BOJ_[1789].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1789].cpp"; sourceTree = "<group>"; };
+		109A5BFB2C46C4C100A469AD /* BOJ_[1157].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1157].cpp"; sourceTree = "<group>"; };
 		10B863462C34411300DA960A /* BOJ_[1920].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1920].cpp"; sourceTree = "<group>"; };
 		10C027E82C43AC370043C368 /* BOJ_[1316].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1316].cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -62,6 +64,8 @@
 				101B8AAC2C2AC351002D7874 /* BOJ_[4949].cpp */,
 				10B863462C34411300DA960A /* BOJ_[1920].cpp */,
 				10C027E82C43AC370043C368 /* BOJ_[1316].cpp */,
+				103D9E312C464865008C7B5C /* BOJ_[1789].cpp */,
+				109A5BFB2C46C4C100A469AD /* BOJ_[1157].cpp */,
 			);
 			path = Algo;
 			sourceTree = "<group>";
@@ -123,7 +127,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				10C027E92C43AC370043C368 /* BOJ_[1316].cpp in Sources */,
+				109A5BFC2C46C4C100A469AD /* BOJ_[1157].cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
