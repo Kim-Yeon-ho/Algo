@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		109A5BFC2C46C4C100A469AD /* BOJ_[1157].cpp in Sources */ = {isa = PBXBuildFile; fileRef = 109A5BFB2C46C4C100A469AD /* BOJ_[1157].cpp */; };
+		107326FE2C4CE1EB008EAC4D /* BOJ_[1152].cpp in Sources */ = {isa = PBXBuildFile; fileRef = 107326FD2C4CE1EB008EAC4D /* BOJ_[1152].cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +26,8 @@
 		101B8AA92C2AC351002D7874 /* Algo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algo; sourceTree = BUILT_PRODUCTS_DIR; };
 		101B8AAC2C2AC351002D7874 /* BOJ_[4949].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[4949].cpp"; sourceTree = "<group>"; };
 		103D9E312C464865008C7B5C /* BOJ_[1789].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1789].cpp"; sourceTree = "<group>"; };
+		107326FB2C4CD88A008EAC4D /* BOJ_[11720].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[11720].cpp"; sourceTree = "<group>"; };
+		107326FD2C4CE1EB008EAC4D /* BOJ_[1152].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1152].cpp"; sourceTree = "<group>"; };
 		109A5BFB2C46C4C100A469AD /* BOJ_[1157].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1157].cpp"; sourceTree = "<group>"; };
 		10B863462C34411300DA960A /* BOJ_[1920].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1920].cpp"; sourceTree = "<group>"; };
 		10C027E82C43AC370043C368 /* BOJ_[1316].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1316].cpp"; sourceTree = "<group>"; };
@@ -66,6 +68,8 @@
 				10C027E82C43AC370043C368 /* BOJ_[1316].cpp */,
 				103D9E312C464865008C7B5C /* BOJ_[1789].cpp */,
 				109A5BFB2C46C4C100A469AD /* BOJ_[1157].cpp */,
+				107326FB2C4CD88A008EAC4D /* BOJ_[11720].cpp */,
+				107326FD2C4CE1EB008EAC4D /* BOJ_[1152].cpp */,
 			);
 			path = Algo;
 			sourceTree = "<group>";
@@ -127,7 +131,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				109A5BFC2C46C4C100A469AD /* BOJ_[1157].cpp in Sources */,
+				107326FE2C4CE1EB008EAC4D /* BOJ_[1152].cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
