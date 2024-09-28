@@ -5,4 +5,18 @@
 //  Created by 김연호 on 9/3/24.
 //
 
-#include <stdio.h>
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie();
+    cout.tie();
+
+    char alpa;
+
+    cin >> alpa;
+
+    cout << int(alpa);
+}
