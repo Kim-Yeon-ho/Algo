@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		107327042C4E6951008EAC4D /* BOJ_[1181].cpp in Sources */ = {isa = PBXBuildFile; fileRef = 107327032C4E6951008EAC4D /* BOJ_[1181].cpp */; };
+		1093B3482D3F5ABB0013F07C /* BOJ_[11659].cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10FDC22A2CA447EC00FE6BC9 /* BOJ_[11659].cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		10089DDC2CA6822200333640 /* BOJ_[11660].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[11660].cpp"; sourceTree = "<group>"; };
 		101B8AA92C2AC351002D7874 /* Algo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algo; sourceTree = BUILT_PRODUCTS_DIR; };
 		101B8AAC2C2AC351002D7874 /* BOJ_[4949].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[4949].cpp"; sourceTree = "<group>"; };
 		103D9E312C464865008C7B5C /* BOJ_[1789].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1789].cpp"; sourceTree = "<group>"; };
@@ -31,9 +32,16 @@
 		107326FF2C4D5D9E008EAC4D /* BOJ_[10809].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[10809].cpp"; sourceTree = "<group>"; };
 		107327012C4E6511008EAC4D /* BOJ_[11718].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[11718].cpp"; sourceTree = "<group>"; };
 		107327032C4E6951008EAC4D /* BOJ_[1181].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1181].cpp"; sourceTree = "<group>"; };
+		1080524E2CB19DB900C539BC /* BOJ_[2018].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[2018].cpp"; sourceTree = "<group>"; };
 		109A5BFB2C46C4C100A469AD /* BOJ_[1157].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1157].cpp"; sourceTree = "<group>"; };
 		10B863462C34411300DA960A /* BOJ_[1920].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1920].cpp"; sourceTree = "<group>"; };
+		10BDD00D2CA7E84100C5C2E6 /* BOJ_[10986].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[10986].cpp"; sourceTree = "<group>"; };
 		10C027E82C43AC370043C368 /* BOJ_[1316].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1316].cpp"; sourceTree = "<group>"; };
+		10CF49712C87343400E88C06 /* BOJ_[2475].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[2475].cpp"; sourceTree = "<group>"; };
+		10CF49732C87497700E88C06 /* BOJ_[11654].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[11654].cpp"; sourceTree = "<group>"; wrapsLines = 1; };
+		10CF49752C874A4700E88C06 /* BOJ_[25083].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[25083].cpp"; sourceTree = "<group>"; };
+		10FDC2282CA43F5C00FE6BC9 /* BOJ_[1546].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1546].cpp"; sourceTree = "<group>"; };
+		10FDC22A2CA447EC00FE6BC9 /* BOJ_[11659].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[11659].cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +84,14 @@
 				107326FF2C4D5D9E008EAC4D /* BOJ_[10809].cpp */,
 				107327012C4E6511008EAC4D /* BOJ_[11718].cpp */,
 				107327032C4E6951008EAC4D /* BOJ_[1181].cpp */,
+				10CF49712C87343400E88C06 /* BOJ_[2475].cpp */,
+				10CF49732C87497700E88C06 /* BOJ_[11654].cpp */,
+				10CF49752C874A4700E88C06 /* BOJ_[25083].cpp */,
+				10FDC2282CA43F5C00FE6BC9 /* BOJ_[1546].cpp */,
+				10FDC22A2CA447EC00FE6BC9 /* BOJ_[11659].cpp */,
+				10089DDC2CA6822200333640 /* BOJ_[11660].cpp */,
+				10BDD00D2CA7E84100C5C2E6 /* BOJ_[10986].cpp */,
+				1080524E2CB19DB900C539BC /* BOJ_[2018].cpp */,
 			);
 			path = Algo;
 			sourceTree = "<group>";
@@ -137,7 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				107327042C4E6951008EAC4D /* BOJ_[1181].cpp in Sources */,
+				1093B3482D3F5ABB0013F07C /* BOJ_[11659].cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
