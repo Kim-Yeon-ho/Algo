@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1093B3482D3F5ABB0013F07C /* BOJ_[11659].cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10FDC22A2CA447EC00FE6BC9 /* BOJ_[11659].cpp */; };
+		10C1BD052D40B7ED004A9A67 /* BOJ_[2018]_remind.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C1BD042D40B7ED004A9A67 /* BOJ_[2018]_remind.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +37,7 @@
 		10B863462C34411300DA960A /* BOJ_[1920].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1920].cpp"; sourceTree = "<group>"; };
 		10BDD00D2CA7E84100C5C2E6 /* BOJ_[10986].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[10986].cpp"; sourceTree = "<group>"; };
 		10C027E82C43AC370043C368 /* BOJ_[1316].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1316].cpp"; sourceTree = "<group>"; };
+		10C1BD042D40B7ED004A9A67 /* BOJ_[2018]_remind.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[2018]_remind.cpp"; sourceTree = "<group>"; };
 		10CF49712C87343400E88C06 /* BOJ_[2475].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[2475].cpp"; sourceTree = "<group>"; };
 		10CF49732C87497700E88C06 /* BOJ_[11654].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[11654].cpp"; sourceTree = "<group>"; wrapsLines = 1; };
 		10CF49752C874A4700E88C06 /* BOJ_[25083].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[25083].cpp"; sourceTree = "<group>"; };
@@ -92,6 +93,7 @@
 				10089DDC2CA6822200333640 /* BOJ_[11660].cpp */,
 				10BDD00D2CA7E84100C5C2E6 /* BOJ_[10986].cpp */,
 				1080524E2CB19DB900C539BC /* BOJ_[2018].cpp */,
+				10C1BD042D40B7ED004A9A67 /* BOJ_[2018]_remind.cpp */,
 			);
 			path = Algo;
 			sourceTree = "<group>";
@@ -123,7 +125,7 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastUpgradeCheck = 1540;
+				LastUpgradeCheck = 1620;
 				TargetAttributes = {
 					101B8AA82C2AC351002D7874 = {
 						CreatedOnToolsVersion = 15.4;
@@ -153,7 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1093B3482D3F5ABB0013F07C /* BOJ_[11659].cpp in Sources */,
+				10C1BD052D40B7ED004A9A67 /* BOJ_[2018]_remind.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -194,6 +196,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -255,6 +258,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -280,6 +284,7 @@
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Manual;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=macosx*]" = 5N6FVFS939;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -293,6 +298,7 @@
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Manual;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = "";
 				"DEVELOPMENT_TEAM[sdk=macosx*]" = 5N6FVFS939;
 				ENABLE_HARDENED_RUNTIME = YES;
