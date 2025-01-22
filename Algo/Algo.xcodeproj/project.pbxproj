@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		10C1BD052D40B7ED004A9A67 /* BOJ_[2018]_remind.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C1BD042D40B7ED004A9A67 /* BOJ_[2018]_remind.cpp */; };
+		10C1BD072D40BE72004A9A67 /* BOJ_[1940].cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C1BD062D40BE72004A9A67 /* BOJ_[1940].cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +38,7 @@
 		10BDD00D2CA7E84100C5C2E6 /* BOJ_[10986].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[10986].cpp"; sourceTree = "<group>"; };
 		10C027E82C43AC370043C368 /* BOJ_[1316].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1316].cpp"; sourceTree = "<group>"; };
 		10C1BD042D40B7ED004A9A67 /* BOJ_[2018]_remind.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[2018]_remind.cpp"; sourceTree = "<group>"; };
+		10C1BD062D40BE72004A9A67 /* BOJ_[1940].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1940].cpp"; sourceTree = "<group>"; };
 		10CF49712C87343400E88C06 /* BOJ_[2475].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[2475].cpp"; sourceTree = "<group>"; };
 		10CF49732C87497700E88C06 /* BOJ_[11654].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[11654].cpp"; sourceTree = "<group>"; wrapsLines = 1; };
 		10CF49752C874A4700E88C06 /* BOJ_[25083].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[25083].cpp"; sourceTree = "<group>"; };
@@ -94,6 +95,7 @@
 				10BDD00D2CA7E84100C5C2E6 /* BOJ_[10986].cpp */,
 				1080524E2CB19DB900C539BC /* BOJ_[2018].cpp */,
 				10C1BD042D40B7ED004A9A67 /* BOJ_[2018]_remind.cpp */,
+				10C1BD062D40BE72004A9A67 /* BOJ_[1940].cpp */,
 			);
 			path = Algo;
 			sourceTree = "<group>";
@@ -155,7 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				10C1BD052D40B7ED004A9A67 /* BOJ_[2018]_remind.cpp in Sources */,
+				10C1BD072D40BE72004A9A67 /* BOJ_[1940].cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
