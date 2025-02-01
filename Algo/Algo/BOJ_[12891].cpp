@@ -22,22 +22,22 @@ int main(){
     cout.tie(NULL);
 
     int S,P;
-    cin >> S >> P;
+    cin >> S >> P;//문자열의 길이와 부분 문자열의 길이 입력
     int Result = 0;
     string A;
-    cin >> A;
+    cin >> A; // 체크해야하는 문자열 입력받음
 
     for(int i=0; i<4; i++) {
-        cin >> checkArr[i];
+        cin >> checkArr[i];//포함하는지 체크해야하는 문자
         if(checkArr[i]==0) checkSecret++; //0개인 문자열은 체크할 필요가 없으니 checkSercet++
     }
 
     for (int i=0; i<P; i++) {
         Add(A[i]);
     }
-    if (checkSecret == 4) Result++;
+    if (checkSecret == 4) Result++; //4개의 문자열을 다 만족하니 결과값++
 
-    for(int i=P; i<S; i++) {
+    for(int i=P; i<S; i++) {//다음 부분 문자열을 확인
         int j = i - P;
         Add(A[i]);
         Remove(A[j]);
