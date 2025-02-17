@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		10FB5E2E2D5DD325001EB031 /* BOJ_[2750].cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10FB5E2D2D5DD325001EB031 /* BOJ_[2750].cpp */; };
+		10C527572D630BAA00FF765A /* BOJ_[11399].cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C527562D630BAA00FF765A /* BOJ_[11399].cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +41,9 @@
 		10C1BD062D40BE72004A9A67 /* BOJ_[1940].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1940].cpp"; sourceTree = "<group>"; };
 		10C1BD082D44AE88004A9A67 /* BOJ_[1253].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1253].cpp"; sourceTree = "<group>"; };
 		10C1BD0A2D4DF5F7004A9A67 /* BOJ_[12891].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[12891].cpp"; sourceTree = "<group>"; };
+		10C527522D62CFC400FF765A /* BOJ_[1377].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1377].cpp"; sourceTree = "<group>"; };
+		10C527542D63086400FF765A /* BOJ_[1427].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1427].cpp"; sourceTree = "<group>"; };
+		10C527562D630BAA00FF765A /* BOJ_[11399].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[11399].cpp"; sourceTree = "<group>"; };
 		10C9C1202D53102500FB6169 /* BOJ_[1874].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[1874].cpp"; sourceTree = "<group>"; };
 		10C9C1222D5346FB00FB6169 /* BOJ_[17298].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[17298].cpp"; sourceTree = "<group>"; };
 		10CF49712C87343400E88C06 /* BOJ_[2475].cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_[2475].cpp"; sourceTree = "<group>"; };
@@ -110,6 +113,9 @@
 				10FB5E292D5D8EB5001EB031 /* BOJ_[2164].cpp */,
 				10FB5E2B2D5D990E001EB031 /* BOJ_[11286].cpp */,
 				10FB5E2D2D5DD325001EB031 /* BOJ_[2750].cpp */,
+				10C527522D62CFC400FF765A /* BOJ_[1377].cpp */,
+				10C527542D63086400FF765A /* BOJ_[1427].cpp */,
+				10C527562D630BAA00FF765A /* BOJ_[11399].cpp */,
 			);
 			path = Algo;
 			sourceTree = "<group>";
@@ -171,7 +177,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				10FB5E2E2D5DD325001EB031 /* BOJ_[2750].cpp in Sources */,
+				10C527572D630BAA00FF765A /* BOJ_[11399].cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
